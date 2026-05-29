@@ -61,7 +61,7 @@ Here you’ll find:
 
 ### Certifications & Training
 
-- AWS Cloud Training - AWS re/Start Programs 2026 - in progress
+- AWS Cloud Training - AWS re/Start Program Graduate 2026 
 - Google / Coursera Cybersecurity Foundation Course 2026 - in progress
 - AWS AI Practitioner Learning Plan - Praesignis 2026
 - AWS Generative AI for Decision Makers - Praesignis 2026
